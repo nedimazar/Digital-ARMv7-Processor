@@ -215,18 +215,21 @@ e3a02000,e3510000,a000004,e2411001,e7903002,e083c00c,e2822004,eafffff8,e1a0000c,
           <int>6</int>
         </entry>
         <entry>
+          <string>Label</string>
+          <string>Quadratic</string>
+        </entry>
+        <entry>
           <string>Bits</string>
           <int>32</int>
         </entry>
         <entry>
           <string>Data</string>
-          <data>e3a0d080,e24dd00c,e3a00001,e58d0000,e3a00002,e58d0004,e3a00003,e58d0008,e1a0000d,
-e3a01003,eb000000,eafffffe,e3a02000,e3a03000,e1520001,a000004,e590c000,e083300c,e2822001,
-e2800004,eafffff8,e1a00003,e12fff1e</data>
+          <data>e3a00004,e3a01003,e3a02002,e3a03001,eb000001,eaffffff,eafffffe,e00c0091,e00c0c90,
+e0010092,e08cc001,e08cc003,e1a0000c,e12fff1e</data>
         </entry>
         <entry>
           <string>lastDataFile</string>
-          <string>/Users/nedimazar/Desktop/CS/CS315/inclass/project06/sum_array_main_a.hex</string>
+          <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/quadratic.hex</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="740"/>
