@@ -2,7 +2,7 @@
 Ned Azar
 
 This is an implementation of a single-cycle ARMv7 processor that can execute a
-subset of instructions.\
+subset of instructions.
 
 ## Implemented Components
   - The PC (program counter) - a 32-bit register
