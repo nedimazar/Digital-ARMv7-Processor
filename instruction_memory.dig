@@ -120,7 +120,7 @@ e1a00002,e12fff1e</data>
           <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/fib_iter.hex</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="180"/>
+      <pos x="260" y="600"/>
     </visualElement>
     <visualElement>
       <elementName>ROM</elementName>
@@ -148,7 +148,7 @@ ebffffef,e59d1008,e59de000,e0810000,e28dd010,e12fff1e,e28dd010,e12fff1e</data>
           <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/fib_rec.hex</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="320"/>
+      <pos x="260" y="740"/>
     </visualElement>
     <visualElement>
       <elementName>ROM</elementName>
@@ -177,7 +177,7 @@ e3510000,cafffff7,e1a00002,e12fff1e</data>
           <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/find_max.hex</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="460"/>
+      <pos x="260" y="320"/>
     </visualElement>
     <visualElement>
       <elementName>ROM</elementName>
@@ -205,7 +205,7 @@ e3a02000,e3510000,a000004,e2411001,e7903002,e083c00c,e2822004,eafffff8,e1a0000c,
           <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/sum_array.hex</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="600"/>
+      <pos x="260" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>ROM</elementName>
@@ -232,7 +232,7 @@ e0010092,e08cc001,e08cc003,e1a0000c,e12fff1e</data>
           <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/quadratic.hex</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="740"/>
+      <pos x="260" y="180"/>
     </visualElement>
     <visualElement>
       <elementName>Const</elementName>
