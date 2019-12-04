@@ -30,7 +30,7 @@
       <elementAttributes>
         <entry>
           <string>Selector Bits</string>
-          <int>4</int>
+          <int>3</int>
         </entry>
         <entry>
           <string>Bits</string>
@@ -58,202 +58,6 @@
       <pos x="0" y="180"/>
     </visualElement>
     <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="260"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="280"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="300"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="320"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="340"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="360"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="380"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="400"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="420"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="440"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="480"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="480"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="460"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Const</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Value</string>
-          <long>0</long>
-        </entry>
-        <entry>
-          <string>Bits</string>
-          <int>32</int>
-        </entry>
-      </elementAttributes>
-      <pos x="560" y="500"/>
-    </visualElement>
-    <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
         <entry>
@@ -266,7 +70,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>4</int>
+          <int>3</int>
         </entry>
       </elementAttributes>
       <pos x="620" y="120"/>
@@ -283,7 +87,7 @@
           <int>32</int>
         </entry>
       </elementAttributes>
-      <pos x="760" y="360"/>
+      <pos x="760" y="280"/>
     </visualElement>
     <visualElement>
       <elementName>Const</elementName>
@@ -299,7 +103,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Fibonacci Iter 12</string>
+          <string>Fib Iter 19</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -307,13 +111,13 @@
         </entry>
         <entry>
           <string>Data</string>
-          <data>e3a0000c,eb000001,eaffffff,eafffffe,e3a01001,e3a02000,e3a03000,e3a04001,e3500000,
-a000008,e1510000,a000004,e1a02003,e1a03004,e0824003,e2811001,eafffff8,e1a00004,e12fff1e,
-e12fff1e</data>
+          <data>e3a00013,eb000001,eaffffff,eafffffe,e3500000,3a02000,a00000c,e3a01000,e3a02001,e2400001,
+e3500000,a000007,eaffffff,e0813002,e1a01002,e1a02003,e2400001,e3500000,a000000,eafffff8,
+e1a00002,e12fff1e</data>
         </entry>
         <entry>
           <string>lastDataFile</string>
-          <string>/Users/nedimazar/Desktop/CS/CS315/fibiter.hex</string>
+          <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/fib_iter.hex</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="180"/>
@@ -326,22 +130,54 @@ e12fff1e</data>
           <int>6</int>
         </entry>
         <entry>
+          <string>Label</string>
+          <string>Fib Rec 19</string>
+        </entry>
+        <entry>
           <string>Bits</string>
           <int>32</int>
         </entry>
         <entry>
           <string>Data</string>
-          <data>e3a00000,eb000010,e1a04000,e3a00001,eb00000d,e1a05000,e3a00002,eb00000a,e1a06000,
-e3a00003,eb000007,e1a07000,e3a0000a,eb000004,e1a08000,e3a00013,eb000001,e1a09000,
-eafffffe,e3a01001,e3a02000,e3a03000,e3a04001,e3500000,a000008,e1510000,a000004,e1a02003,
-e1a03004,e0824003,e2811001,eafffff8,e1a00004,e12fff1e,e12fff1e</data>
+          <data>e3a00013,eb000001,eaffffff,eafffffe,e24dd010,e3500000,a00000f,e3500001,1a000001,e3a00001,
+ea00000d,e58de000,e58d0004,e2400001,ebfffff4,e1a01000,e58d1008,e59d0004,e2400002,
+ebffffef,e59d1008,e59de000,e0810000,e28dd010,e12fff1e,e28dd010,e12fff1e</data>
         </entry>
         <entry>
           <string>lastDataFile</string>
-          <string>/Users/nedimazar/Desktop/CS/CS315/fibrec.hex</string>
+          <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/fib_rec.hex</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>ROM</elementName>
+      <elementAttributes>
+        <entry>
+          <string>AddrBits</string>
+          <int>6</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Find Max</string>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
+        </entry>
+        <entry>
+          <string>Data</string>
+          <data>e3a0d080,e24dd018,e3a0000c,e58d0000,e3a00004,e58d0004,e3a000be,e58d0008,e3a000c8,
+e58d000c,e3a00003,e58d0010,e1a0000d,e3a01005,eb000001,eaffffff,eafffffe,e590c000,
+e1a0200c,e2411001,e2800004,e2411001,e590c000,e15c0002,da000000,e1a0200c,e2800004,
+e3510000,cafffff7,e1a00002,e12fff1e</data>
+        </entry>
+        <entry>
+          <string>lastDataFile</string>
+          <string>/Users/nedimazar/Desktop/CS/CS315/repos/project06-nedimazar/find_max.hex</string>
+        </entry>
+      </elementAttributes>
+      <pos x="260" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>ROM</elementName>
@@ -365,41 +201,99 @@ e2800004,eafffff8,e1a00003,e12fff1e</data>
           <string>/Users/nedimazar/Desktop/CS/CS315/inclass/project06/sum_array_main_a.hex</string>
         </entry>
       </elementAttributes>
-      <pos x="260" y="460"/>
+      <pos x="260" y="600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>ROM</elementName>
+      <elementAttributes>
+        <entry>
+          <string>AddrBits</string>
+          <int>6</int>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
+        </entry>
+        <entry>
+          <string>Data</string>
+          <data>e3a0d080,e24dd00c,e3a00001,e58d0000,e3a00002,e58d0004,e3a00003,e58d0008,e1a0000d,
+e3a01003,eb000000,eafffffe,e3a02000,e3a03000,e1520001,a000004,e590c000,e083300c,e2822001,
+e2800004,eafffff8,e1a00003,e12fff1e</data>
+        </entry>
+        <entry>
+          <string>lastDataFile</string>
+          <string>/Users/nedimazar/Desktop/CS/CS315/inclass/project06/sum_array_main_a.hex</string>
+        </entry>
+      </elementAttributes>
+      <pos x="260" y="740"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Value</string>
+          <long>0</long>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
+        </entry>
+      </elementAttributes>
+      <pos x="500" y="340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Value</string>
+          <long>0</long>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
+        </entry>
+      </elementAttributes>
+      <pos x="500" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Const</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Value</string>
+          <long>0</long>
+        </entry>
+        <entry>
+          <string>Bits</string>
+          <int>32</int>
+        </entry>
+      </elementAttributes>
+      <pos x="500" y="300"/>
     </visualElement>
   </visualElements>
   <wires>
-    <wire>
-      <p1 x="560" y="320"/>
-      <p2 x="600" y="320"/>
-    </wire>
     <wire>
       <p1 x="100" y="320"/>
       <p2 x="260" y="320"/>
     </wire>
     <wire>
-      <p1 x="560" y="480"/>
-      <p2 x="600" y="480"/>
+      <p1 x="500" y="320"/>
+      <p2 x="600" y="320"/>
     </wire>
     <wire>
       <p1 x="320" y="480"/>
       <p2 x="360" y="480"/>
     </wire>
     <wire>
-      <p1 x="560" y="260"/>
+      <p1 x="180" y="640"/>
+      <p2 x="260" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="380" y="260"/>
       <p2 x="600" y="260"/>
     </wire>
     <wire>
-      <p1 x="560" y="420"/>
-      <p2 x="600" y="420"/>
-    </wire>
-    <wire>
-      <p1 x="560" y="360"/>
-      <p2 x="600" y="360"/>
-    </wire>
-    <wire>
-      <p1 x="640" y="360"/>
-      <p2 x="760" y="360"/>
+      <p1 x="100" y="740"/>
+      <p2 x="260" y="740"/>
     </wire>
     <wire>
       <p1 x="180" y="360"/>
@@ -410,40 +304,36 @@ e2800004,eafffff8,e1a00003,e12fff1e</data>
       <p2 x="600" y="200"/>
     </wire>
     <wire>
-      <p1 x="560" y="460"/>
-      <p2 x="600" y="460"/>
-    </wire>
-    <wire>
       <p1 x="100" y="460"/>
       <p2 x="260" y="460"/>
-    </wire>
-    <wire>
-      <p1 x="560" y="300"/>
-      <p2 x="600" y="300"/>
     </wire>
     <wire>
       <p1 x="120" y="140"/>
       <p2 x="180" y="140"/>
     </wire>
     <wire>
-      <p1 x="560" y="400"/>
-      <p2 x="600" y="400"/>
+      <p1 x="320" y="620"/>
+      <p2 x="380" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="180" y="780"/>
+      <p2 x="260" y="780"/>
+    </wire>
+    <wire>
+      <p1 x="500" y="300"/>
+      <p2 x="600" y="300"/>
     </wire>
     <wire>
       <p1 x="360" y="240"/>
       <p2 x="600" y="240"/>
     </wire>
     <wire>
-      <p1 x="560" y="340"/>
-      <p2 x="600" y="340"/>
-    </wire>
-    <wire>
       <p1 x="320" y="340"/>
       <p2 x="340" y="340"/>
     </wire>
     <wire>
-      <p1 x="560" y="500"/>
-      <p2 x="600" y="500"/>
+      <p1 x="500" y="340"/>
+      <p2 x="600" y="340"/>
     </wire>
     <wire>
       <p1 x="180" y="500"/>
@@ -458,12 +348,20 @@ e2800004,eafffff8,e1a00003,e12fff1e</data>
       <p2 x="260" y="180"/>
     </wire>
     <wire>
-      <p1 x="560" y="280"/>
+      <p1 x="640" y="280"/>
+      <p2 x="760" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="400" y="280"/>
       <p2 x="600" y="280"/>
     </wire>
     <wire>
-      <p1 x="560" y="440"/>
-      <p2 x="600" y="440"/>
+      <p1 x="320" y="760"/>
+      <p2 x="400" y="760"/>
+    </wire>
+    <wire>
+      <p1 x="100" y="600"/>
+      <p2 x="260" y="600"/>
     </wire>
     <wire>
       <p1 x="340" y="220"/>
@@ -474,8 +372,8 @@ e2800004,eafffff8,e1a00003,e12fff1e</data>
       <p2 x="260" y="220"/>
     </wire>
     <wire>
-      <p1 x="560" y="380"/>
-      <p2 x="600" y="380"/>
+      <p1 x="400" y="280"/>
+      <p2 x="400" y="760"/>
     </wire>
     <wire>
       <p1 x="100" y="180"/>
@@ -484,6 +382,14 @@ e2800004,eafffff8,e1a00003,e12fff1e</data>
     <wire>
       <p1 x="100" y="320"/>
       <p2 x="100" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="100" y="460"/>
+      <p2 x="100" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="100" y="600"/>
+      <p2 x="100" y="740"/>
     </wire>
     <wire>
       <p1 x="340" y="220"/>
@@ -502,12 +408,24 @@ e2800004,eafffff8,e1a00003,e12fff1e</data>
       <p2 x="180" y="500"/>
     </wire>
     <wire>
+      <p1 x="180" y="500"/>
+      <p2 x="180" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="180" y="640"/>
+      <p2 x="180" y="780"/>
+    </wire>
+    <wire>
       <p1 x="360" y="240"/>
       <p2 x="360" y="480"/>
     </wire>
     <wire>
       <p1 x="620" y="120"/>
       <p2 x="620" y="200"/>
+    </wire>
+    <wire>
+      <p1 x="380" y="260"/>
+      <p2 x="380" y="620"/>
     </wire>
   </wires>
   <measurementOrdering/>
